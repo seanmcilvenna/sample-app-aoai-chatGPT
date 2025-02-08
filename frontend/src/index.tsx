@@ -10,7 +10,7 @@ import { AppStateProvider } from './state/AppProvider'
 
 import './index.css'
 
-initializeIcons()
+initializeIcons('https://cdn.jsdelivr.net/npm/@fluent/icons@2.5.1/dist/tailwind.json')
 
 export default function App() {
   return (
