@@ -10,7 +10,7 @@ import { AppStateProvider } from './state/AppProvider'
 
 import './index.css'
 
-initializeIcons('https://cdn.jsdelivr.net/npm/@fluent/icons@2.5.1/dist/tailwind.json')
+initializeIcons('https://res.cdn.office.net/files/fabric-cdn-prod_20240129.001/assets/icons/')
 
 export default function App() {
   return (
